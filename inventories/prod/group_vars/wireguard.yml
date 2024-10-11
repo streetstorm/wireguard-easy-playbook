@@ -1,0 +1,8 @@
+docker_users:
+  - user
+
+wireguard_port: 51820
+wireguard_ui_port: 51821
+# Hash password "PasswordWG"
+wireguard_ui_password: $2a$12$CCDAP/qVvR3XXdEsiwHpNeGKeQs.WVen/oggwCi8.y05M/lQWwdxW
+wireguard_server_url: "5.55.55.555"
